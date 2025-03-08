@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Heleno but can you call me rizion!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=I'm+19+years+old;I+from+Angola,+LD;IT+Student;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=IT+Student:%29)](https://git.io/typing-svg)
 
 - 🔭 I'm currently working on React
 - 🌱 I'm currently learning Data Analysis
