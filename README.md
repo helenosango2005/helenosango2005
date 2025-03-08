@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Heleno but can you call me rizion! 
 # I'm a normal IT Student
-![Uploading octocat-1741437988131.png…]()
 
 - 🔭 I'm currently working on React
 - 🌱 I'm currently learning Data Analysis
