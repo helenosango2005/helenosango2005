@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=I'm+19+years+old;I+from+Angola,+LD;IT+Student;+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 I'm currently working on React <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
+- 🔭 I'm currently working on React
 - 🌱 I'm currently learning Data Analysis
 
 ## Tools and Technologies
